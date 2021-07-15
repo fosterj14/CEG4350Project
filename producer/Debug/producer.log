@@ -1,0 +1,6 @@
+﻿  producer.cpp
+C:\Users\John Foster\Documents\School Work\WSU Comp Sci\Summer 2021\CS 4350\producer\producer.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Foster\Documents\School Work\WSU Comp Sci\Summer 2021\CS 4350\producer\producer.cpp(78,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Foster\Documents\School Work\WSU Comp Sci\Summer 2021\CS 4350\producer\producer.cpp(97,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\John Foster\Documents\School Work\WSU Comp Sci\Summer 2021\CS 4350\producer\producer.cpp(132,7): warning C4101: 'convertedArr': unreferenced local variable
+  producer.vcxproj -> C:\Users\John Foster\Documents\School Work\WSU Comp Sci\Summer 2021\CS 4350\CS4350-Project-John-Foster\Debug\producer.exe
